@@ -130,6 +130,5 @@ assets/83867930/b6c912f3-b29b-4d3f-9b3a-8254f73cd68c)
 ![result](https://github.com/gunwoof/Boostcamp-level2-dkt-recsys/assets/83867930/99d2fbc1-16e9-4c4a-ae94-a46f8c5d6c44)
 
 # Laboratory Report
-[[DKT_Recsys_팀_리포트](https://github.com/boostcampaitech6/level2-dkt-recsys-04/blob/main/DKT_Recsys_%ED%8C%80_%EB%A6%AC%ED%8F%AC%ED%8A%B8(04%EC%A1%B0).pdf)
-](https://confusion-fan-64d.notion.site/Level-2-DKT-Wrap-Up-Report-cc27ca07945a4452bfa69e52e79ed781?pvs=4)https://confusion-fan-64d.notion.site/Level-2-DKT-Wrap-Up-Report-cc27ca07945a4452bfa69e52e79ed781?pvs=4
+[DKT_Recsys_팀_리포트](https://confusion-fan-64d.notion.site/Level-2-DKT-Wrap-Up-Report-cc27ca07945a4452bfa69e52e79ed781?pvs=4)
 
