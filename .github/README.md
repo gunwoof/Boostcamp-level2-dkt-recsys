@@ -57,7 +57,7 @@
 # Project Structure
 
 ### 일정
-![image](https://github.com/boostcampaitech6/level2-dkt-recsys-04/assets/83867930/a1075fce-e913-45ff-b73a-2ce7d8ee511a)
+![date](https://github.com/gunwoof/Boostcamp-level2-dkt-recsys/assets/83867930/f9a9bc65-a23e-4739-b3ab-d6a183d7800b)
 ### Pipeline
 ```bash
 📦 code
@@ -83,7 +83,7 @@
     ├─ readme.md
     ├─ DKT_Recsys_팀_리포트(04조).pdf
 ```
-![AI 파이프라인](https://github.com/boostcampaitech6/level2-dkt-recsys-04/assets/83867930/c1765101-edf3-419c-9cab-cf315835e7f2)
+![pipeline](https://github.com/gunwoof/Boostcamp-level2-dkt-recsys/assets/83867930/4223d586-5970-41b6-8b67-bca31082d937)
 ### 1. Environment
 ```
 pandas==20.3
@@ -109,12 +109,13 @@ cudatoolkit==11.3
 
 **`KnowleadgeTag` :** 문항 당 하나씩 배정되는 태그로, 일종의 중분류 역할을 합니다. 912개의 고유 태그가 존재합니다.
 
-![feature](https://github.com/boostcampaitech6/level2-dkt-recsys-04/assets/68991530/198f77f4-ee69-4172-9033-0602a47cf6ba)
+![data](https://github.com/gunwoof/Boostcamp-level2-dkt-recsys/assets/83867930/95dcb9b4-4d01-4e54-8984-c3b64dde2beb)
 ### 3. Model
   - **Boosting model**
-    ![Boosting_Flow_Chart](https://github.com/boostcampaitech6/level2-dkt-recsys-04/assets/8871767/4031ba71-8ec2-4232-ab36-8fbc3e55f7bc)
+    ![boosting model](https://github.com/gunwoof/Boostcamp-level2-dkt-recsys/assets/83867930/95ce01c7-1ea7-45bf-aab8-85c81d9ae43d)
   - **Sequence model**
-    ![model_seq](https://github.com/boostcampaitech6/level2-dkt-recsys-04/assets/95879995/82b5668c-2b82-4038-8900-0ab418a64bad)
+    ![sequence moedel](https://github.com/gunwoof/Boostcamp-level2-dkt-recsys/assets/83867930/3aecdebe-eefa-4824-a3b7-a7a39a4968e9)
+assets/83867930/b6c912f3-b29b-4d3f-9b3a-8254f73cd68c)
 
 ### 4. Performance
 
@@ -124,11 +125,11 @@ cudatoolkit==11.3
 
 | **Public AUC** | **Public ACC** |
 | :------: |  :------: | 
-| 0.8156 | 0.7527 | 
+| **0.8156** | **0.7527** | 
 
-![result](https://github.com/boostcampaitech6/level2-dkt-recsys-04/assets/68991530/ad3ecb4d-ce3d-4735-836e-318d1c998502)
+![result](https://github.com/gunwoof/Boostcamp-level2-dkt-recsys/assets/83867930/99d2fbc1-16e9-4c4a-ae94-a46f8c5d6c44)
 
 # Laboratory Report
-[DKT_Recsys_팀_리포트](https://github.com/boostcampaitech6/level2-dkt-recsys-04/blob/main/DKT_Recsys_%ED%8C%80_%EB%A6%AC%ED%8F%AC%ED%8A%B8(04%EC%A1%B0).pdf)
-
+[[DKT_Recsys_팀_리포트](https://github.com/boostcampaitech6/level2-dkt-recsys-04/blob/main/DKT_Recsys_%ED%8C%80_%EB%A6%AC%ED%8F%AC%ED%8A%B8(04%EC%A1%B0).pdf)
+](https://confusion-fan-64d.notion.site/Level-2-DKT-Wrap-Up-Report-cc27ca07945a4452bfa69e52e79ed781?pvs=4)https://confusion-fan-64d.notion.site/Level-2-DKT-Wrap-Up-Report-cc27ca07945a4452bfa69e52e79ed781?pvs=4
 
