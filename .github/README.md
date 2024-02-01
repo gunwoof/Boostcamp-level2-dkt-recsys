@@ -21,7 +21,7 @@
 - 김세훈 : Boosting모델 베이스라인 구축, T-Fixup모델 구현, K-Fold 적용, Data Augmentation 적용
 - 문찬우 : Lastquery 모델링, Rnn, Gru, Tcn, 등 Sequence 모델링
 - 김시윤 : LGBM 베이스라인 구축 및 최적화, lightgcn 모델링, Ensemble 진행
-- 배건우 : Base environment 구축, Base python script pipeline 구축, Sweep 구현, Stacking ensemble 구현
+- ![**배건우 : Base environment 구축, Base python script pipeline 구축, Sweep 구현, Stacking ensemble 구현**](https://confusion-fan-64d.notion.site/Base-code-8b97691a1a834fedb84de75389cce4ae?pvs=4)
 - 이승준 : Saint, Saint + GRU, GRUATTN 모델링
 
 # Skill 
